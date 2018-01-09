@@ -1,7 +1,6 @@
 # CANDRIS
 A Statistical Method for Predicting Cancer Driver Sites and Cancer-specific Selection Pressures
 
-CANDRIS
 =====
 	Gu Xun			xgu@iastate.edu
 	Zhou Zhan		zhanzhou@zju.edu.cn
