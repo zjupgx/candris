@@ -1,5 +1,5 @@
 # CANDRIS
-A Statistical Method for Profiling Cancer Driver Sites and Cancer-specific Selection Pressures
+A Statistical Framework for Posterior Profiling Cancer-Driving Sites based on Recurrent Somatic Mutations
 
 Contact
 =====
@@ -9,7 +9,9 @@ Contact
 	
 Description
 ---
-	CANDRIS: Predicting Cancer Driver Sites ; V1.0; 2017.12.15
+	CanDriS: A Statistical Framework for Posterior Profiling Cancer-Driving Sites based on Recurrent Somatic Mutations
+	Version: V1.1
+	Date: 2019.07.16
 	
 	
 Usage
