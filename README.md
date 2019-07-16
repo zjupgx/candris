@@ -1,4 +1,4 @@
-# CANDRIS
+# CanDriS
 A Statistical Framework for Posterior Profiling Cancer-Driving Sites based on Recurrent Somatic Mutations
 
 Contact
