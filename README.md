@@ -67,9 +67,9 @@ Analysis steps
 			ENSG00000105641	ENST00000222248	19	SLC5A5	438	3	0.896681963701284	P438S:2;P438L:1;		
 		The meaning of some parameters in the result:
 			Max_hit：the maximum number of mutations at each site of a gene		Count：the total number of mutations in a gene
-			Distribution：mutation distribution at all sites of a gene			Mut_sites：all mutation sites in a gene
-			f0：the ratio of non-mutated sites in a gene					mean：the average number of mutations at all sites of a gene
-			m0：the average number of mutations on the passenger_site			m1：the average number of mutations on the driver_site
-			eta：the number of driver_site at all sites of a gene				LRT_p-value：Likelihood Ratio Test value
-			Q(z)：posterior probability							z：The number of mutations in the locus	
+			Distribution：mutation distribution at all sites of a gene		Mut_sites：all mutation sites in a gene
+			f0：the ratio of non-mutated sites in a gene				mean：the average number of mutations at all sites of a gene
+			m0：the average number of mutations on the passenger_site		m1：the average number of mutations on the driver_site
+			eta：the number of driver_site at all sites of a gene			LRT_p-value：Likelihood Ratio Test value
+			Q(z)：posterior probability						z：The number of mutations in the locus	
 				
