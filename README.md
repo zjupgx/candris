@@ -68,8 +68,8 @@ Analysis steps
 		The meaning of some parameters in the result:
 			Max_hit：the maximum number of mutations at each site of a gene		Count：the total number of mutations in a gene
 			Distribution：mutation distribution at all sites of a gene			Mut_sites：all mutation sites in a gene
-			f0：the ratio of non-mutated sites in a gene						mean：the average number of mutations at all sites of a gene
+			f0：the ratio of non-mutated sites in a gene					mean：the average number of mutations at all sites of a gene
 			m0：the average number of mutations on the passenger_site			m1：the average number of mutations on the driver_site
 			eta：the number of driver_site at all sites of a gene				LRT_p-value：Likelihood Ratio Test value
-			Q(z)：posterior probability											z：The number of mutations in the locus	
+			Q(z)：posterior probability							z：The number of mutations in the locus	
 				
